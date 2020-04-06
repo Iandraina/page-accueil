@@ -142,7 +142,7 @@ http://www.templatemo.com/tm-515-eatery
   -----------------------------------------*/
 
   .section-btn {
-    background: #ce3232;
+    background: #EE82EE;
     border-radius: 0;
     border: 0;
     color: #f9f9f9;
@@ -403,16 +403,16 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-first {
-    background-image: url(../images/slider-image1.jpg);
+    background-image: url(../images/fond-puie1.jpg);
   }
 
-  .slider .item-second {
+  /* .slider .item-second {
     background-image: url(../images/slider-image2.jpg);
   }
 
   .slider .item-third {
     background-image: url(../images/slider-image3.jpg);
-  }
+  } */
 
   .slider .item-second .section-btn {
     background: #292929;
